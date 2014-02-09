@@ -2,6 +2,8 @@
 -- START DISKCACHE
 /Users/nimm2/Documents/workspace/Test/.metadata/.plugins/org.eclipse.core.resources/.projects/neuerTest/com.python.pydev.analysis/v1_indexcache
 .v1_indexcache
+default.test|0|/Users/nimm2/Documents/workspace/Test/neuerTest/default/test.py
+default.__init__|0|/Users/nimm2/Documents/workspace/Test/neuerTest/default/__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
 0
